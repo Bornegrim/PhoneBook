@@ -1,0 +1,20 @@
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BornegrimLucas_lab3.From1.resources
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.From1.resources
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\OneDrive - Uppsala universitet\Objektorienterad programmering 1\Labbar\Labb 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
